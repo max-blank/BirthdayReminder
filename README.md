@@ -6,8 +6,8 @@ A simple Windows desktop application that helps you remember upcoming birthdays.
 
 ## 📸 Preview
 
-![Birthday Reminder preview](./assets/BirthdayReminer - Light Theme.jpg)
-![Birthday Reminder preview](./assets/BirthdayReminer - Dark Theme.jpg)
+![Birthday Reminder preview](BirthdayReminer%20-%20Light%20Theme.jpg)
+![Birthday Reminder preview](BirthdayReminer%20-%20Dark%20Theme.jpg)
 
 ## ✨ Overview
 
@@ -92,19 +92,19 @@ VirusTotal : <PUT LINK HERE>
 
 ## Possible future improvements
 
--Birthday notifications
--Automatic reminders before a birthday
--Search and filter contacts
--Import and export contacts
--Custom application themes
--Recurring birthday notifications
--Support for multiple languages
--Backup and restore functionality
--Optional system tray integration
+- Birthday notifications
+- Automatic reminders before a birthday
+- Search and filter contacts
+- Import and export contacts
+- Custom application themes
+- Recurring birthday notifications
+- Support for multiple languages
+- Backup and restore functionality
+- Optional system tray integration
 
 ## Known limitations
 
--Currently available for Windows only
--No mobile version, linux or apple version.
--Lack of notifications
--No cloud synchronization
+- Currently available for Windows only
+- No mobile version, linux or apple version.
+- Lack of notifications
+- No cloud synchronization
