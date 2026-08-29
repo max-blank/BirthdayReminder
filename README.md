@@ -6,7 +6,8 @@ A simple Windows desktop application that helps you remember upcoming birthdays.
 
 ## 📸 Preview
 
-![Birthday Reminder preview](./assets/screenshot.png)
+![Birthday Reminder preview](./assets/BirthdayReminer - Light Theme.jpg)
+![Birthday Reminder preview](./assets/BirthdayReminer - Dark Theme.jpg)
 
 ## ✨ Overview
 
