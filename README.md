@@ -130,7 +130,7 @@ VirusTotal : <PUT LINK HERE>
 
 ## 🤝 Contributing
 
-👤 Hey, i'm <max-blank>, and this is my very first Windows application. 
+👤 Hey, i'm max-blank, and this is my very first Windows application. 
    I'm completely new to all this, coding stuff, using Github and everything, but i'm trying my best!
 
 If you like what i did, want to support me, and help me create more projects like these :
