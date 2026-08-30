@@ -1,6 +1,6 @@
 # 🎂🎁 Birthday Reminder v1.0.3 🔔🎈
 
-Si vous souhaitez une description en français, cliquer ici -> [Follow this link!]
+Si vous souhaitez une description en français, cliquer ici -> [Follow this link!](README%20-%20FRENCH.md)
 
 Hey i'm Max, i've designed my first app and wanted to share it with you. 
 A simple Windows desktop application that helps you remember upcoming birthdays. Never forget or miss an important date!
