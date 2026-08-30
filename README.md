@@ -1,6 +1,6 @@
 # 🎂🎁 Birthday Reminder v1.0.3 🔔🎈
 
-if you want the french description -> Follow this link!
+Si vous souhaitez une description en français, cliquer ici -> [Follow this link!]
 
 Hey i'm Max, i've designed my first app and wanted to share it with you. 
 A simple Windows desktop application that helps you remember upcoming birthdays. Never forget or miss an important date!
@@ -109,7 +109,8 @@ This project was built with:
 4. Launch Birthday Reminder from the Start menu or desktop shortcut.
 Pro tip : you can put the application shortcut into your startup folder if you want it to run when windows starts.
 
-VIRUS TOTAL : [See the results]https://www.virustotal.com/gui/file/b92480b947b00a84a92a3cb37f659c2c3edaa416c755a0044d7c3fa8d7eddf70?nocache=1
+VIRUS TOTAL : 
+[See the results]https://www.virustotal.com/gui/file/b92480b947b00a84a92a3cb37f659c2c3edaa416c755a0044d7c3fa8d7eddf70?nocache=1
 
 ## 🚀 Possible future improvements
 
@@ -138,3 +139,7 @@ VIRUS TOTAL : [See the results]https://www.virustotal.com/gui/file/b92480b947b00
 If you like what i did, want to support me, and help me create more projects like these :
 - 🧡[Kofi]https://ko-fi.com/oxoxo
 - 💙[Paypal]https://paypal.me/maxblank0
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
