@@ -1,4 +1,4 @@
-# 🎂🎁 Rappel d’anniversaires v1.0.3 🔔🎈
+# 🎂🎁 Rappel d’anniversaires v1.0 🔔🎈
 
 If you would like to see the description in english, click here. → [Suivre ce lien !](README.md)
 
