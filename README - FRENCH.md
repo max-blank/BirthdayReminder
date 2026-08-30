@@ -1,6 +1,6 @@
 # 🎂🎁 Rappel d’anniversaires v1.0.3 🔔🎈
 
-If you would like to see the description in english, click here. → [Suivre ce lien !]README.md
+If you would like to see the description in english, click here. → [Suivre ce lien !] (README.md)
 
 Bonjour, je m’appelle Max. J’ai conçu ma toute première application et je souhaitais la partager avec vous.
 
