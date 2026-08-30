@@ -110,7 +110,7 @@ This project was built with:
 Pro tip : you can put the application shortcut into your startup folder if you want it to run when windows starts.
 
 VIRUS TOTAL : 
-[See the results]https://www.virustotal.com/gui/file/b92480b947b00a84a92a3cb37f659c2c3edaa416c755a0044d7c3fa8d7eddf70?nocache=1
+[See the results](https://www.virustotal.com/gui/file/b92480b947b00a84a92a3cb37f659c2c3edaa416c755a0044d7c3fa8d7eddf70?nocache=1)
 
 ## 🚀 Possible future improvements
 
@@ -137,8 +137,8 @@ VIRUS TOTAL :
    I'm completely new to all this, coding stuff, using Github and everything, but i'm trying my best!
 
 If you like what i did, want to support me, and help me create more projects like these :
-- 🧡[Kofi]https://ko-fi.com/oxoxo
-- 💙[Paypal]https://paypal.me/maxblank0
+- 🧡[Kofi](https://ko-fi.com/oxoxo)
+- 💙[Paypal](https://paypal.me/maxblank0)
 
 ## 📄 License
 
