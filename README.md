@@ -1,4 +1,4 @@
-# 🎂🎁 Birthday Reminder v1.0.3 🔔🎈
+# 🎂🎁 Birthday Reminder v1.0 🔔🎈
 
 Si vous souhaitez une description en français, cliquer ici -> [Follow this link!](README%20-%20FRENCH.md)
 
