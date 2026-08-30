@@ -109,7 +109,7 @@ This project was built with:
 4. Launch Birthday Reminder from the Start menu or desktop shortcut.
 Pro tip : you can put the application shortcut into your startup folder if you want it to run when windows starts.
 
-VirusTotal : <PUT LINK HERE>
+VIRUS TOTAL : [See the results]https://www.virustotal.com/gui/file/b92480b947b00a84a92a3cb37f659c2c3edaa416c755a0044d7c3fa8d7eddf70?nocache=1
 
 ## 🚀 Possible future improvements
 
