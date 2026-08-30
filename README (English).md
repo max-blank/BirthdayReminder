@@ -23,8 +23,8 @@ And then once i got provided with material to work with, i had to use all my thi
 
 ## 📸 Preview
 
-![Birthday Reminder preview](BirthdayReminer%20-%20Light%20Theme.jpg)
-![Birthday Reminder preview](BirthdayReminer%20-%20Dark%20Theme.jpg)
+![Birthday Reminder preview](Light%20Theme.jpg)
+![Birthday Reminder preview](Dark%20Theme.jpg)
 
 ## ✨ Overview
 
