@@ -36,8 +36,8 @@ Ensuite, une fois que j’avais reçu des éléments avec lesquels travailler, j
 
 ## 📸 Aperçu
 
-![Aperçu de Rappel d’anniversaires](Light%20Theme.jpg)  
-![Aperçu de Rappel d’anniversaires](Dark%20Theme.jpg)
+![Aperçu de Rappel d’anniversaires](Light%20Theme%20FR.jpg)  
+![Aperçu de Rappel d’anniversaires](Dark%20Theme%20FR.jpg)
 
 ## ✨ Présentation
 
