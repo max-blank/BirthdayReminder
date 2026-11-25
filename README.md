@@ -142,4 +142,4 @@ If you like what i did, want to support me, and help me create more projects lik
 
 ## 📄 License
 
-Proprietary License, © 2026 Maxime Godet, All right reserved.
+Exclusive license, © 2026 Maxime Godet, All rights reserved. See the LICENSE file for more information.
