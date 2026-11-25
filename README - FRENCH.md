@@ -156,4 +156,4 @@ Si vous appréciez ce que j’ai réalisé, souhaitez me soutenir et m’aider �
 
 ## 📄 Licence
 
-Ce projet est distribué sous licence MIT. Consultez le fichier LICENSE pour plus d’informations.
+Licence exclusive, © 2026 Maxime Godet, Tous droits réservés. Consultez le fichier LICENSE pour plus d’informations.
