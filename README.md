@@ -142,4 +142,4 @@ If you like what i did, want to support me, and help me create more projects lik
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Proprietary License, © 2026 Maxime Godet, All right reserved.
