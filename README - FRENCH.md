@@ -156,4 +156,6 @@ Si vous appréciez ce que j’ai réalisé, souhaitez me soutenir et m’aider �
 
 ## 📄 Licence
 
+(Ma position concernant la licence d'utilisation reste floue pour le moment. Actuellement, elle est propriétaire ; je la rendrai peut-être libre et open source plus tard.)
+
 Licence exclusive, © 2026 Maxime Godet, Tous droits réservés. Consultez le fichier LICENSE pour plus d’informations.
