@@ -142,4 +142,6 @@ If you like what i did, want to support me, and help me create more projects lik
 
 ## 📄 License
 
+(My position about the licence to use is still unclear at the moment. For now it's proprietary, maybe i'll put it free and open source at some point.)
+
 Exclusive license, © 2026 Maxime Godet, All rights reserved. See the LICENSE file for more information.
